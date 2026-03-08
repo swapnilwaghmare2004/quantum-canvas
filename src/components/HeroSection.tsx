@@ -119,11 +119,11 @@ const HeroSection = () => {
           transition={{ duration: 0.8, delay: 0.3 }}
           className="relative flex-shrink-0"
         >
-          <div className="w-64 h-64 sm:w-80 sm:h-80 rounded-full overflow-hidden neon-border animate-float relative">
+          <div className="w-56 h-56 sm:w-72 sm:h-72 rounded-full overflow-hidden neon-border animate-float relative">
             <img
               src={profilePhoto}
               alt="Swapnil Waghmare"
-              className="w-full h-full object-cover"
+              className="w-full h-full object-cover object-top scale-110"
             />
           </div>
           <div className="absolute -inset-4 rounded-full border border-primary/10 animate-glow-pulse" />
