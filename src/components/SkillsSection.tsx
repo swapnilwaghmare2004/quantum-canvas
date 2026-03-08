@@ -27,6 +27,11 @@ const skillCategories = [
     color: "secondary",
     skills: ["Git", "GitHub", "MATLAB", "PySpark", "Dask", "Jupyter Notebook"],
   },
+  {
+    title: "Electronics & Embedded Systems",
+    color: "accent",
+    skills: ["MATLAB", "Xilinx", "NI Multisim", "Tinkercad", "Keil uVision 5", "Arduino IDE", "Circuit Design", "Cisco Packet Tracer"],
+  },
 ];
 
 const colorClasses: Record<string, { border: string; bg: string; text: string }> = {
