@@ -91,7 +91,7 @@ const projects = [
     title: "LoRaWAN Based Smart Clamp System",
     description: "ESP32-based IoT clamp with LoRaWAN communication, tamper detection, DC motor actuation, PCB layout, and low-power firmware optimization.",
     tags: ["IoT", "ESP32", "LoRaWAN", "Embedded"],
-    link: "https://drive.google.com/file/d/Major_Project_Report_BE_SW",
+    link: "https://drive.google.com/file/d/1GQx33pOQMiKE1bdKXwQxDujg7laQPrj9/view?usp=sharing",
   },
 ];
 
