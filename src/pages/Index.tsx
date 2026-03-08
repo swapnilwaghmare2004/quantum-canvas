@@ -8,6 +8,7 @@ import ProjectsSection from "@/components/ProjectsSection";
 import CertificationsSection from "@/components/CertificationsSection";
 import InternshipsSection from "@/components/InternshipsSection";
 import GitHubSection from "@/components/GitHubSection";
+import TestimonialSection from "@/components/TestimonialSection";
 import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
 
