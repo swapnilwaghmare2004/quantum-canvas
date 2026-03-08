@@ -4,6 +4,7 @@ import { Github, Linkedin, Twitter, Mail, Download } from "lucide-react";
 import profilePhoto from "@/assets/profile-photo.jpg";
 
 const roles = [
+  "Electronics & Telecommunication Engineer",
   "AI Enthusiast",
   "Machine Learning Developer",
   "Data Analyst",
