@@ -15,7 +15,7 @@ const roles = [
 const socialLinks = [
   { icon: Github, href: "https://github.com/swapnilwaghmare2004", label: "GitHub" },
   { icon: Linkedin, href: "https://www.linkedin.com/in/swapnil-waghmare-103b93259", label: "LinkedIn" },
-  { icon: Twitter, href: "https://x.com/home?lang=en", label: "Twitter" },
+  { icon: Twitter, href: "https://x.com/SwapnilTuk8188", label: "Twitter" },
   { icon: Mail, href: "mailto:waghmareswapnil563@gmail.com", label: "Email" },
 ];
 

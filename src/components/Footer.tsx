@@ -11,7 +11,7 @@ const Footer = () => {
           {[
             { icon: Github, href: "https://github.com/swapnilwaghmare2004" },
             { icon: Linkedin, href: "https://www.linkedin.com/in/swapnil-waghmare-103b93259" },
-            { icon: Twitter, href: "https://x.com/home?lang=en" },
+            { icon: Twitter, href: "https://x.com/SwapnilTuk8188" },
             { icon: Mail, href: "mailto:waghmareswapnil563@gmail.com" },
           ].map((link, i) => (
             <a
