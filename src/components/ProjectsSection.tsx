@@ -98,6 +98,7 @@ const projects = [
     description: "ESP32-based IoT clamp with LoRaWAN communication, tamper detection, DC motor actuation, PCB layout, and low-power firmware optimization.",
     tags: ["IoT", "ESP32", "LoRaWAN", "Embedded"],
     link: "https://drive.google.com/file/d/1GQx33pOQMiKE1bdKXwQxDujg7laQPrj9/view?usp=sharing",
+  },
 ];
 
 const allTags = Array.from(new Set(projects.flatMap((p) => p.tags)));
