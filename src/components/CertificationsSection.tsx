@@ -7,7 +7,7 @@ const certifications = [
   { name: "Data Science", issuer: "Cisco Networking Academy", link: "https://drive.google.com/file/d/1uJGaP8sr8SNohflw4MDKD9cxqHcpI3ho" },
   { name: "Azure AI Fundamentals", issuer: "Microsoft", link: "https://drive.google.com/file/d/12THFYNcO148e8rW5kqZioUL6qKsuH8G3" },
   { name: "Machine Learning Fundamentals", issuer: "Microsoft", link: "https://drive.google.com/file/d/1e-LA-M_xkd-vbxErj0UWhqbvrDyFrIuq" },
-  { name: "Python Essentials 2", issuer: "Cisco Networking Academy", link: undefined },
+  { name: "Python Essentials 2", issuer: "Cisco Networking Academy", link: "https://drive.google.com/file/d/1gNhkxo_bmQrnav6BG6l6kfp-wqLQY0bw/view?usp=sharing" },
   { name: "Introduction to IoT", issuer: "Cisco Networking Academy", link: "https://drive.google.com/file/d/1gtB0bbPK-duLc7ATmI-hg_7LMnHwWDs5" },
   { name: "AWS re/Start Graduate", issuer: "Amazon Web Services", link: "https://www.credly.com/badges/0b1c8b18-7b54-4f1f-b6b2-29755e0a8dad" },
 ];

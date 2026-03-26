@@ -88,7 +88,17 @@ const projects = [
     link: "https://swapnilwaghmare2004.github.io/Map-Navigate-India/",
   },
   {
+    title: "Swiggy AI Food Delivery Analytics",
+    description: "AI-powered food delivery analytics system with restaurant recommendations, delivery time prediction, and interactive dashboard.",
+    tags: ["Python", "Machine Learning", "Data Analytics"],
+    link: "https://github.com/swapnilwaghmare2004/swiggy-ai-food-delivery-project",
+  },
+  {
     title: "LoRaWAN Based Smart Clamp System",
+    description: "ESP32-based IoT clamp with LoRaWAN communication, tamper detection, DC motor actuation, PCB layout, and low-power firmware optimization.",
+    tags: ["IoT", "ESP32", "LoRaWAN", "Embedded"],
+    link: "https://drive.google.com/file/d/1GQx33pOQMiKE1bdKXwQxDujg7laQPrj9/view?usp=sharing",
+  },
     description: "ESP32-based IoT clamp with LoRaWAN communication, tamper detection, DC motor actuation, PCB layout, and low-power firmware optimization.",
     tags: ["IoT", "ESP32", "LoRaWAN", "Embedded"],
     link: "https://drive.google.com/file/d/1GQx33pOQMiKE1bdKXwQxDujg7laQPrj9/view?usp=sharing",
